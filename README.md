@@ -27,7 +27,7 @@ A multi-page website developed as part of my web development coursework, featuri
 
 **Status:** [Completed / In Progress]
 
-[View Project](https://github.com/Molebog89/Java-POE)
+[View Project](PASTE-YOUR-REPOSITORY-LINK-HERE)
 
 ### 2. Java Registration, Login and Messaging System
 **Technologies:** Java
@@ -35,8 +35,9 @@ A multi-page website developed as part of my web development coursework, featuri
 A Java application involving user registration, input validation, login functionality, and messaging features.
 
 **Status:** In Progress
+[View Project](PASTE-YOUR-REPOSITORY-LINK-HERE)
+[View Project](PASTE-YOUR-REPOSITORY-LINK-HERE)
 
-[View Project](https://github.com/Molebog89/ST10529301-JAVA-part-2-POE)
 
 ## Current Learning
 
