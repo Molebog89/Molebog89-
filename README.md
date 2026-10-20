@@ -36,7 +36,7 @@ A Java application involving user registration, input validation, login function
 
 **Status:** In Progress
 [View Project](PASTE-YOUR-REPOSITORY-LINK-HERE)
-[View Project](PASTE-YOUR-REPOSITORY-LINK-HERE)
+[View Project](https://github.com/Molebog89/ST10529301-JAVA-part-2-POE)
 
 
 ## Current Learning
