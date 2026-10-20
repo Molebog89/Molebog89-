@@ -20,7 +20,7 @@ I am continuously improving my programming skills through academic projects and 
 
 ## My Projects
 
-### 1. Apple iStore Website
+### 1. Apple iStore Website view project()
 **Technologies:** HTML, CSS, JavaScript
 
 A multi-page website developed as part of my web development coursework, featuring product pages, navigation, interactive functionality, and contact/enquiry features.
@@ -36,7 +36,7 @@ A Java application involving user registration, input validation, login function
 
 **Status:** In Progress
 
-[View Project](PASTE-YOUR-REPOSITORY-LINK-HERE)
+[View Project](https://github.com/Molebog89/ST10529301-JAVA-part-2-POE)
 
 ## Current Learning
 
